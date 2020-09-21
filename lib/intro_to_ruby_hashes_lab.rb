@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  
+  {:guitar = "Gibson", :other_guitar = "Fender"}
 end
 
 def pioneer
